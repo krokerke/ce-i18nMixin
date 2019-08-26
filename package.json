@@ -1,0 +1,24 @@
+{
+  "name": "ce-mixin-i18n",
+  "version": "1.0.0",
+  "description": "Custom Elements mixin for simple i18n support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krokerke/ce-mixin-i18n.git"
+  },
+  "keywords": [
+    "i18n",
+    "mixin",
+    "customElements"
+  ],
+  "author": "Kevin Kroker <krokerke@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krokerke/ce-mixin-i18n/issues"
+  },
+  "homepage": "https://github.com/krokerke/ce-mixin-i18n#readme"
+}
